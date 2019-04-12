@@ -427,7 +427,7 @@ pre[class^="rsg--pre"],
 
 // HTML preview needs some padding adjustments to match Styleguidist
 .vueds-html.cm-s-night.CodeMirror {
-  padding-left: $space-m - 4px;
+  padding-left: $space-m - $space-xxs;
 }
 
 // VUE & HTML Code tabs
